@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tih:home|Door43 (tih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tih|d43-tih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tih/archive/master.zip|d43-tih.zip]]
+
+**Recent Changes**
+{{changes>ns = tih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tih|Ethnologue data]]
+
